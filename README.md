@@ -11,7 +11,7 @@ The text fields are cleared out every time you request a new image.
  
  Click on the image below to see the live website.
 
-[![application images](https://github.com/tiptonspiderj/Meme-Generator/blob/main/images/meme.png)](https://tiptonspiderj1-meme-generator.netlify.app/)
+[![application images](https://github.com/tiptonspiderj/Meme-Generator/blob/main/public/meme.png)](https://tiptonspiderj1-meme-generator.netlify.app/)
 
 ### Installing for Windows
 
