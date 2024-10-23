@@ -4,14 +4,14 @@ This is a meme generator where you can customize the text on the top and bottom 
 
 ## Description
 
-This project was made using Visual Code for the IDE along with React and Vite for compiling the code. This application reaches out to the [imgflip API](https://imgflip.com/api) for the random images displayed in the application.
+This project was made using Visual Studio Code for the IDE along with React and Vite for compiling the code. This application reaches out to the [imgflip API](https://imgflip.com/api) for the random images displayed in the application.
 The text fields are cleared out every time you request a new image.  
 
 ## Getting Started
  
  Click on the image below to see the live website.
 
-[![application images](https://github.com/tiptonspiderj/Meme-Generator/blob/main/images/meme.png)](https://tiptonspiderj1-meme-generator.netlify.app/)
+[![application images](https://github.com/tiptonspiderj/Meme-Generator/blob/main/public/meme.png)](https://tiptonspiderj1-meme-generator.netlify.app/)
 
 ### Installing for Windows
 
@@ -33,11 +33,10 @@ The dependencies are React and the Vite compiler.  I also used Visual Studio Cod
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Background Color | ![#8b8b8b](https://via.placeholder.com/10/8b8b8b?text=+) #8b8b8b |
-| Green Color | ![#0def17](https://via.placeholder.com/10/0def17?text=+) #0def17 |
-| Text Color | ![#8b8b8b](https://via.placeholder.com/10/8b8b8b=+) #8b8b8b |
-| Button Color | ![#0def18](https://via.placeholder.com/10/0def18?text=+) #0def18 |
-| Button Color | ![#d50404](https://via.placeholder.com/10/d50404?text=+) #d50404 |
+| Background Color | ![#16081b](https://imageplaceholder.net/10x10/16081b) #16081b |
+| Purple Color | ![#672280](https://imageplaceholder.net/10x10/672280) #672280 |
+| Purple Color | ![#a626d3](https://imageplaceholder.net/10x10/a626d3) #a626d3 |
+| Text Color | ![#ffffff](https://imageplaceholder.net/10x10/ffffff) #ffffff |
 
 ## Authors
 
