@@ -10,7 +10,7 @@ You can select the trivia category from list of categories available from the Tr
  
  Click on the image below to see the live website.
 
-[![application images](https://github.com/tiptonspiderj/Quizzical/blob/main/public/readme.png)](https://tiptonspiderj1-quiz-game.netlify.app/)
+[![application images](https://github.com/tiptonspiderj/Meme-Generator/blob/main/images/meme.png)](https://tiptonspiderj1-meme-generator.netlify.app/)
 
 ### Installing for Windows
 
