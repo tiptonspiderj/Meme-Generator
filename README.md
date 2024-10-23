@@ -33,8 +33,8 @@ The dependencies are React and the Vite compiler.  I also used Visual Studio Cod
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Background Color | ![#8b8b8b](https://via.placeholder.com/10/8b8b8b?text=+) #8b8b8b |
-| Green Color | ![#0def17](https://via.placeholder.com/10/0def17?text=+) #0def17 |
+| Background Color | ![#16081b](https://via.placeholder.com/10/16081b?text=+) #16081b |
+| Purple Color | ![#0def17](https://via.placeholder.com/10/0def17?text=+) #0def17 |
 | Text Color | ![#8b8b8b](https://via.placeholder.com/10/8b8b8b=+) #8b8b8b |
 | Button Color | ![#0def18](https://via.placeholder.com/10/0def18?text=+) #0def18 |
 | Button Color | ![#d50404](https://via.placeholder.com/10/d50404?text=+) #d50404 |
