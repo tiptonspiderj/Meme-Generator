@@ -1,16 +1,17 @@
 # Meme Generator
-This is general trivia game to be played with yourself or friends.
+
+This is a meme generator where you can customize the text on the top and bottom of the images randomly presented.
 
 ## Description
 
-This project was made using Visual Code for the IDE along with React and Vite for compiling the code. This application reaches out to the Open Trivia Database API for the questions displayed in the application.
-You can select the trivia category from list of categories available from the Trivia Database API.  You can also choose the level of difficulty for the questions.  Only five questions are displayed at a time.  The application will tell you how you did on the quiz when you select the "Check answers" button.
+This project was made using Visual Code for the IDE along with React and Vite for compiling the code. This application reaches out to the [imgflip API](https://imgflip.com/api) for the random images displayed in the application.
+The text fields are cleared out every time you request a new image.  
 
 ## Getting Started
  
  Click on the image below to see the live website.
 
-[![application images](https://github.com/tiptonspiderj/Quizzical/blob/main/public/readme.png)](https://tiptonspiderj1-quiz-game.netlify.app/)
+[![application images](https://github.com/tiptonspiderj/Meme-Generator/blob/main/images/meme.png)](https://tiptonspiderj1-meme-generator.netlify.app/)
 
 ### Installing for Windows
 
@@ -27,8 +28,7 @@ If you don't know whether or not NPM is installed on your computer, type "npm -v
 
 ### Dependencies
 
-The dependencies are React and the Vite compiler.  I also used Visual Studio Code to make the project from scratch.  Because of the API calls and React used in the project, it must be ran in a server environment.  Visual Studio Code makes this really easy if you enable the "Live Server" extension.  If you have quesitons about that, you can find sources on how to enable the extension on YouTube.  Third party libraries used in the project are "nanoid" for creating keys when mapping over arrays and "he" for decoding characters that show up in the information returned from the trivia database.
-
+The dependencies are React and the Vite compiler.  I also used Visual Studio Code to make the project from scratch.  Because of the API calls and React used in the project, it must be ran in a server environment.  Visual Studio Code makes this really easy if you enable the "Live Server" extension.  If you have quesitons about that, you can find sources on how to enable the extension on YouTube.
 ## Color Reference
 
 | Color             | Hex                                                                |
