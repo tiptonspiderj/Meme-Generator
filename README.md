@@ -4,7 +4,7 @@ This is a meme generator where you can customize the text on the top and bottom 
 
 ## Description
 
-This project was made using Visual Code for the IDE along with React and Vite for compiling the code. This application reaches out to the [imgflip API ](https://imgflip.com/api)for the random images displayed in the application.
+This project was made using Visual Code for the IDE along with React and Vite for compiling the code. This application reaches out to the [imgflip API](https://imgflip.com/api) for the random images displayed in the application.
 The text fields are cleared out every time you request a new image.  
 
 ## Getting Started
