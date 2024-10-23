@@ -1,10 +1,11 @@
 # Meme Generator
-This is general trivia game to be played with yourself or friends.
+
+This is a meme generator where you can customize the text on the top and bottom of the images randomly presented.
 
 ## Description
 
-This project was made using Visual Code for the IDE along with React and Vite for compiling the code. This application reaches out to the Open Trivia Database API for the questions displayed in the application.
-You can select the trivia category from list of categories available from the Trivia Database API.  You can also choose the level of difficulty for the questions.  Only five questions are displayed at a time.  The application will tell you how you did on the quiz when you select the "Check answers" button.
+This project was made using Visual Code for the IDE along with React and Vite for compiling the code. This application reaches out to [the imgflip](https://imgflip.com/api) API for the random images displayed in the application.
+The text fields are cleared out every time you request a new image.  
 
 ## Getting Started
  
