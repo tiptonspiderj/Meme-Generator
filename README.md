@@ -28,7 +28,7 @@ If you don't know whether or not NPM is installed on your computer, type "npm -v
 
 ### Dependencies
 
-The dependencies are React and the Vite compiler.  I also used Visual Studio Code to make the project from scratch.  Because of the API calls and React used in the project, it must be ran in a server environment.  Visual Studio Code makes this really easy if you enable the "Live Server" extension.  If you have quesitons about that, you can find sources on how to enable the extension on YouTube.
+The dependencies are React and the Vite compiler.  I also used Visual Studio Code to make the project from scratch.  Because of the API calls and React used in the project, it must be ran in a server environment.  Visual Studio Code makes this really easy if you enable the "Live Server" extension.  If you have questions about that, you can find sources on how to enable the extension on YouTube.
 ## Color Reference
 
 | Color             | Hex                                                                |
