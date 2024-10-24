@@ -1,6 +1,5 @@
 # Meme Generator
 
-This is a meme generator where you can customize the text on the top and bottom of the images randomly presented.  
 The meme generator is where you can customize the text on the top and bottom of the images 
 randomly presented. The meme generator is a digital tool that allows users to create hilarious, 
 relatable, and shareable images by combining text with visuals. This tool offers an 
