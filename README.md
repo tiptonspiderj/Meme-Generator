@@ -1,9 +1,12 @@
 # Meme Generator
 
-This is a meme generator where you can customize the text on the top and bottom of the images randomly presented.  A meme generator is a 
-digital tool that allows users to create hilarious, relatable, and shareable images by combining text with visuals. These tools typically 
-offer easy-to-use interfaces where you can select from a variety of popular meme templates. Add your witty captions and voilà—you have a 
-meme ready to go viral! Whether you’re aiming to entertain your friends, make a social comment, or just pass the time, a meme generator 
+This is a meme generator where you can customize the text on the top and bottom of the images randomly presented.  
+The meme generator is where you can customize the text on the top and bottom of the images 
+randomly presented. The meme generator is a digital tool that allows users to create hilarious, 
+relatable, and shareable images by combining text with visuals. This tool offers an 
+easy-to-use interface where you can select from a variety of popular meme templates. Add 
+your witty captions and voilà—you have a meme ready to go viral! Whether you’re aiming to 
+entertain your friends, make a social comment, or just pass the time, a meme generator 
 puts the power of internet humor at your fingertips. How's that for quick creativity?
 
 ## Description
